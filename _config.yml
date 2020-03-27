@@ -1,11 +1,11 @@
 # Site settings
 author: Matt Fleming
-title: 
+title: Socially Distanced Software Engineer
 header-img: img/home-bg.png
 email: matthewfleming8@gmail.com
 copyright_name: Matt Fleming
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning how to code in a newly remote world.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mflem8
