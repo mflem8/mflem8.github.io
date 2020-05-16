@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "StateBreweryTours - A Journey into CLI/API"
-date:       2020-05-16 00:57:26 +0000
+date:       2020-05-15 20:57:27 -0400
 permalink:  statebrewerytours_-_a_journey_into_cli_api
 ---
 
@@ -16,7 +16,7 @@ As to focus solely on the fundamentals I chose not to build a gem, and I utilize
 
 The user enters their state and is returned a list of 20 breweries in their home state. They can then select a brewery on the list to return detailed information like address, phone number, and website of each individual brewery.
 
-![](https://ibb.co/rGnSHBh)
+![(https://ibb.co/rGnSHBh)]
 
 One of the most valuable personal lessons I learned in this project was to - ask for help. The Flatiron team is incredible, knowledgable and their genuine desire to see me fall in love with code the way they have is clear. And it's working! I found this project incredibly satisfying and a really valuable experience seeing all the parts/pieces I've learned the last 7 weeks work together in an application. 
 
